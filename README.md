@@ -24,6 +24,8 @@ Employees practice:
 
 ## Live Demo
 
+Live phone demo: +1 (775) 305-7542
+
 The demo follows a new Rosewood Sand Hill employee being onboarded by an AI hospitality mentor named Remy.
 
 The interaction includes:
